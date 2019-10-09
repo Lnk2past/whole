@@ -1,0 +1,19 @@
+#pragma once
+
+#include <whole/algorithm/all_any_none.h>
+#include <whole/algorithm/copy.h>
+#include <whole/algorithm/count.h>
+#include <whole/algorithm/fill.h>
+#include <whole/algorithm/find.h>
+#include <whole/algorithm/for_each.h>
+#include <whole/algorithm/generate.h>
+#include <whole/algorithm/mismatch.h>
+#include <whole/algorithm/move.h>
+#include <whole/algorithm/remove.h>
+#include <whole/algorithm/rotate.h>
+#include <whole/algorithm/sample.h>
+#include <whole/algorithm/search.h>
+#include <whole/algorithm/shift.h>
+#include <whole/algorithm/swap.h>
+#include <whole/algorithm/transform.h>
+#include <whole/algorithm/unique.h>
